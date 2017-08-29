@@ -22,6 +22,7 @@ public class TelaCadastro extends AppCompatActivity {
     RadioButton rdCadProfssional;
     CompoundButton radioGroup1;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
